@@ -14,7 +14,7 @@
 3. **Navigate to the Project Directory:**
    - Open your terminal or command prompt and go to the project directory:
      ```bash
-     cd number-letter-guessing-game
+     cd number-Guessing-game-cpp
      ```
 
 4. **Compile the C++ Program:**
